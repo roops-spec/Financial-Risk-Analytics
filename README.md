@@ -23,8 +23,8 @@ The primary goal of the initial module was to calculate the 99% Daily Historical
 
 **Calculated 99% Daily VaR:**
 
-* **Daily Volatility (Std Dev):** [INSERT YOUR VOLATILITY NUMBER HERE]
-* **99% Daily VaR (Percentage):** [INSERT YOUR PERCENTAGE VaR HERE - e.g., 0.0424]
+* **Daily Volatility (Std Dev):** 0.016337613643994168
+* **99% Daily VaR (Percentage):** 0.0424
 * **99% Daily VaR on \$100k Portfolio:** **\$4,241.65**
 
 **Interpretation:** There is a 99% probability that the portfolio will not lose more than $\text{\$4,241.65}$ in a single trading day.
